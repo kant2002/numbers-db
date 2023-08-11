@@ -19,6 +19,86 @@ number|gender|form|case|text
 17|masculine|cardinal|nominative|сімнадцять
 18|masculine|cardinal|nominative|вісімнадцять
 19|masculine|cardinal|nominative|дев'ятнадцять
+20|masculine|cardinal|nominative|двадцять
+21|masculine|cardinal|nominative|двадцять один
+22|masculine|cardinal|nominative|двадцять два
+23|masculine|cardinal|nominative|двадцять три
+24|masculine|cardinal|nominative|двадцять чотири
+25|masculine|cardinal|nominative|двадцять п'ять
+26|masculine|cardinal|nominative|двадцять шість
+27|masculine|cardinal|nominative|двадцять сім
+28|masculine|cardinal|nominative|двадцять вісім
+29|masculine|cardinal|nominative|двадцять дев'ять
+30|masculine|cardinal|nominative|тридцять
+31|masculine|cardinal|nominative|тридцять один
+32|masculine|cardinal|nominative|тридцять два
+33|masculine|cardinal|nominative|тридцять три
+34|masculine|cardinal|nominative|тридцять чотири
+35|masculine|cardinal|nominative|тридцять п'ять
+36|masculine|cardinal|nominative|тридцять шість
+37|masculine|cardinal|nominative|тридцять сім
+38|masculine|cardinal|nominative|тридцять вісім
+39|masculine|cardinal|nominative|тридцять дев'ять
+40|masculine|cardinal|nominative|сорок
+41|masculine|cardinal|nominative|сорок один
+42|masculine|cardinal|nominative|сорок два
+43|masculine|cardinal|nominative|сорок три
+44|masculine|cardinal|nominative|сорок чотири
+45|masculine|cardinal|nominative|сорок п'ять
+46|masculine|cardinal|nominative|сорок шість
+47|masculine|cardinal|nominative|сорок сім
+48|masculine|cardinal|nominative|сорок вісім
+49|masculine|cardinal|nominative|сорок дев'ять
+50|masculine|cardinal|nominative|п'ятдесят
+51|masculine|cardinal|nominative|п'ятдесят один
+52|masculine|cardinal|nominative|п'ятдесят два
+53|masculine|cardinal|nominative|п'ятдесят три
+54|masculine|cardinal|nominative|п'ятдесят чотири
+55|masculine|cardinal|nominative|п'ятдесят п'ять
+56|masculine|cardinal|nominative|п'ятдесят шість
+57|masculine|cardinal|nominative|п'ятдесят сім
+58|masculine|cardinal|nominative|п'ятдесят вісім
+59|masculine|cardinal|nominative|п'ятдесят дев'ять
+60|masculine|cardinal|nominative|шістдесят
+61|masculine|cardinal|nominative|шістдесят один
+62|masculine|cardinal|nominative|шістдесят два
+63|masculine|cardinal|nominative|шістдесят три
+64|masculine|cardinal|nominative|шістдесят чотири
+65|masculine|cardinal|nominative|шістдесят п'ять
+66|masculine|cardinal|nominative|шістдесят шість
+67|masculine|cardinal|nominative|шістдесят сім
+68|masculine|cardinal|nominative|шістдесят вісім
+69|masculine|cardinal|nominative|шістдесят дев'ять
+70|masculine|cardinal|nominative|сімдесят
+71|masculine|cardinal|nominative|сімдесят один
+72|masculine|cardinal|nominative|сімдесят два
+73|masculine|cardinal|nominative|сімдесят три
+74|masculine|cardinal|nominative|сімдесят чотири
+75|masculine|cardinal|nominative|сімдесят п'ять
+76|masculine|cardinal|nominative|сімдесят шість
+77|masculine|cardinal|nominative|сімдесят сім
+78|masculine|cardinal|nominative|сімдесят вісім
+79|masculine|cardinal|nominative|сімдесят дев'ять
+80|masculine|cardinal|nominative|вісімдесят
+81|masculine|cardinal|nominative|вісімдесят один
+82|masculine|cardinal|nominative|вісімдесят два
+83|masculine|cardinal|nominative|вісімдесят три
+84|masculine|cardinal|nominative|вісімдесят чотири
+85|masculine|cardinal|nominative|вісімдесят п'ять
+86|masculine|cardinal|nominative|вісімдесят шість
+87|masculine|cardinal|nominative|вісімдесят сім
+88|masculine|cardinal|nominative|вісімдесят вісім
+89|masculine|cardinal|nominative|вісімдесят дев'ять
+90|masculine|cardinal|nominative|дев'яносто
+91|masculine|cardinal|nominative|дев'яносто один
+92|masculine|cardinal|nominative|дев'яносто два
+93|masculine|cardinal|nominative|дев'яносто три
+94|masculine|cardinal|nominative|дев'яносто чотири
+95|masculine|cardinal|nominative|дев'яносто п'ять
+96|masculine|cardinal|nominative|дев'яносто шість
+97|masculine|cardinal|nominative|дев'яносто сім
+98|masculine|cardinal|nominative|дев'яносто вісім
+99|masculine|cardinal|nominative|дев'яносто дев'ять
 0|feminine|cardinal|nominative|нуль
 1|feminine|cardinal|nominative|одна
 2|feminine|cardinal|nominative|дві
@@ -39,3 +119,83 @@ number|gender|form|case|text
 17|feminine|cardinal|nominative|сімнадцять
 18|feminine|cardinal|nominative|вісімнадцять
 19|feminine|cardinal|nominative|дев'ятнадцять
+20|feminine|cardinal|nominative|двадцять
+21|feminine|cardinal|nominative|двадцять одна
+22|feminine|cardinal|nominative|двадцять дві
+23|feminine|cardinal|nominative|двадцять три
+24|feminine|cardinal|nominative|двадцять чотири
+25|feminine|cardinal|nominative|двадцять п'ять
+26|feminine|cardinal|nominative|двадцять шість
+27|feminine|cardinal|nominative|двадцять сім
+28|feminine|cardinal|nominative|двадцять вісім
+29|feminine|cardinal|nominative|двадцять дев'ять
+30|feminine|cardinal|nominative|тридцять
+31|feminine|cardinal|nominative|тридцять одна
+32|feminine|cardinal|nominative|тридцять дві
+33|feminine|cardinal|nominative|тридцять три
+34|feminine|cardinal|nominative|тридцять чотири
+35|feminine|cardinal|nominative|тридцять п'ять
+36|feminine|cardinal|nominative|тридцять шість
+37|feminine|cardinal|nominative|тридцять сім
+38|feminine|cardinal|nominative|тридцять вісім
+39|feminine|cardinal|nominative|тридцять дев'ять
+40|feminine|cardinal|nominative|сорок
+41|feminine|cardinal|nominative|сорок одна
+42|feminine|cardinal|nominative|сорок дві
+43|feminine|cardinal|nominative|сорок три
+44|feminine|cardinal|nominative|сорок чотири
+45|feminine|cardinal|nominative|сорок п'ять
+46|feminine|cardinal|nominative|сорок шість
+47|feminine|cardinal|nominative|сорок сім
+48|feminine|cardinal|nominative|сорок вісім
+49|feminine|cardinal|nominative|сорок дев'ять
+50|feminine|cardinal|nominative|п'ятдесят
+51|feminine|cardinal|nominative|п'ятдесят одна
+52|feminine|cardinal|nominative|п'ятдесят дві
+53|feminine|cardinal|nominative|п'ятдесят три
+54|feminine|cardinal|nominative|п'ятдесят чотири
+55|feminine|cardinal|nominative|п'ятдесят п'ять
+56|feminine|cardinal|nominative|п'ятдесят шість
+57|feminine|cardinal|nominative|п'ятдесят сім
+58|feminine|cardinal|nominative|п'ятдесят вісім
+59|feminine|cardinal|nominative|п'ятдесят дев'ять
+60|feminine|cardinal|nominative|шістдесят
+61|feminine|cardinal|nominative|шістдесят одна
+62|feminine|cardinal|nominative|шістдесят дві
+63|feminine|cardinal|nominative|шістдесят три
+64|feminine|cardinal|nominative|шістдесят чотири
+65|feminine|cardinal|nominative|шістдесят п'ять
+66|feminine|cardinal|nominative|шістдесят шість
+67|feminine|cardinal|nominative|шістдесят сім
+68|feminine|cardinal|nominative|шістдесят вісім
+69|feminine|cardinal|nominative|шістдесят дев'ять
+70|feminine|cardinal|nominative|сімдесят
+71|feminine|cardinal|nominative|сімдесят одна
+72|feminine|cardinal|nominative|сімдесят дві
+73|feminine|cardinal|nominative|сімдесят три
+74|feminine|cardinal|nominative|сімдесят чотири
+75|feminine|cardinal|nominative|сімдесят п'ять
+76|feminine|cardinal|nominative|сімдесят шість
+77|feminine|cardinal|nominative|сімдесят сім
+78|feminine|cardinal|nominative|сімдесят вісім
+79|feminine|cardinal|nominative|сімдесят дев'ять
+80|feminine|cardinal|nominative|вісімдесят
+81|feminine|cardinal|nominative|вісімдесят одна
+82|feminine|cardinal|nominative|вісімдесят дві
+83|feminine|cardinal|nominative|вісімдесят три
+84|feminine|cardinal|nominative|вісімдесят чотири
+85|feminine|cardinal|nominative|вісімдесят п'ять
+86|feminine|cardinal|nominative|вісімдесят шість
+87|feminine|cardinal|nominative|вісімдесят сім
+88|feminine|cardinal|nominative|вісімдесят вісім
+89|feminine|cardinal|nominative|вісімдесят дев'ять
+90|feminine|cardinal|nominative|дев'яносто
+91|feminine|cardinal|nominative|дев'яносто одна
+92|feminine|cardinal|nominative|дев'яносто дві
+93|feminine|cardinal|nominative|дев'яносто три
+94|feminine|cardinal|nominative|дев'яносто чотири
+95|feminine|cardinal|nominative|дев'яносто п'ять
+96|feminine|cardinal|nominative|дев'яносто шість
+97|feminine|cardinal|nominative|дев'яносто сім
+98|feminine|cardinal|nominative|дев'яносто вісім
+99|feminine|cardinal|nominative|дев'яносто дев'ять
