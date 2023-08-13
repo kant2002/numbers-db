@@ -99,6 +99,47 @@ number|gender|form|case|text
 97|masculine|cardinal|nominative|дев'яносто сім
 98|masculine|cardinal|nominative|дев'яносто вісім
 99|masculine|cardinal|nominative|дев'яносто дев'ять
+100|masculine|cardinal|nominative|сто
+101|masculine|cardinal|nominative|сто один
+102|masculine|cardinal|nominative|сто два
+103|masculine|cardinal|nominative|сто три
+104|masculine|cardinal|nominative|сто чотири
+105|masculine|cardinal|nominative|сто п'ять
+106|masculine|cardinal|nominative|сто шість
+107|masculine|cardinal|nominative|сто сім
+108|masculine|cardinal|nominative|сто вісім
+109|masculine|cardinal|nominative|сто дев'ять
+110|masculine|cardinal|nominative|сто десять
+111|masculine|cardinal|nominative|сто одинадцять
+112|masculine|cardinal|nominative|сто дванадцять
+113|masculine|cardinal|nominative|сто тринадцять
+114|masculine|cardinal|nominative|сто чотирнадцять
+115|masculine|cardinal|nominative|сто п'ятнадцять
+116|masculine|cardinal|nominative|сто шістнадцять
+117|masculine|cardinal|nominative|сто сімнадцять
+118|masculine|cardinal|nominative|сто вісімнадцять
+119|masculine|cardinal|nominative|сто дев'ятнадцять
+120|masculine|cardinal|nominative|сто двадцять
+121|masculine|cardinal|nominative|сто двадцять один
+122|masculine|cardinal|nominative|сто двадцять два
+123|masculine|cardinal|nominative|сто двадцять три
+124|masculine|cardinal|nominative|сто двадцять чотири
+125|masculine|cardinal|nominative|сто двадцять п'ять
+126|masculine|cardinal|nominative|сто двадцять шість
+127|masculine|cardinal|nominative|сто двадцять сім
+128|masculine|cardinal|nominative|сто двадцять вісім
+129|masculine|cardinal|nominative|сто двадцять дев'ять
+130|masculine|cardinal|nominative|сто тридцять
+131|masculine|cardinal|nominative|сто тридцять один
+132|masculine|cardinal|nominative|сто тридцять два
+200|masculine|cardinal|nominative|двісті
+300|masculine|cardinal|nominative|триста
+400|masculine|cardinal|nominative|чотириста
+500|masculine|cardinal|nominative|п'ятсот
+600|masculine|cardinal|nominative|шістсот
+700|masculine|cardinal|nominative|сімсот
+800|masculine|cardinal|nominative|вісімсот
+900|masculine|cardinal|nominative|дев'ятсот
 0|feminine|cardinal|nominative|нуль
 1|feminine|cardinal|nominative|одна
 2|feminine|cardinal|nominative|дві
@@ -199,3 +240,44 @@ number|gender|form|case|text
 97|feminine|cardinal|nominative|дев'яносто сім
 98|feminine|cardinal|nominative|дев'яносто вісім
 99|feminine|cardinal|nominative|дев'яносто дев'ять
+100|feminine|cardinal|nominative|сто
+101|feminine|cardinal|nominative|сто одна
+102|feminine|cardinal|nominative|сто дві
+103|feminine|cardinal|nominative|сто три
+104|feminine|cardinal|nominative|сто чотири
+105|feminine|cardinal|nominative|сто п'ять
+106|feminine|cardinal|nominative|сто шість
+107|feminine|cardinal|nominative|сто сім
+108|feminine|cardinal|nominative|сто вісім
+109|feminine|cardinal|nominative|сто дев'ять
+110|feminine|cardinal|nominative|сто десять
+111|feminine|cardinal|nominative|сто одинадцять
+112|feminine|cardinal|nominative|сто дванадцять
+113|feminine|cardinal|nominative|сто тринадцять
+114|feminine|cardinal|nominative|сто чотирнадцять
+115|feminine|cardinal|nominative|сто п'ятнадцять
+116|feminine|cardinal|nominative|сто шістнадцять
+117|feminine|cardinal|nominative|сто сімнадцять
+118|feminine|cardinal|nominative|сто вісімнадцять
+119|feminine|cardinal|nominative|сто дев'ятнадцять
+120|feminine|cardinal|nominative|сто двадцять
+121|feminine|cardinal|nominative|сто двадцять одна
+122|feminine|cardinal|nominative|сто двадцять дві
+123|feminine|cardinal|nominative|сто двадцять три
+124|feminine|cardinal|nominative|сто двадцять чотири
+125|feminine|cardinal|nominative|сто двадцять п'ять
+126|feminine|cardinal|nominative|сто двадцять шість
+127|feminine|cardinal|nominative|сто двадцять сім
+128|feminine|cardinal|nominative|сто двадцять вісім
+129|feminine|cardinal|nominative|сто двадцять дев'ять
+130|feminine|cardinal|nominative|сто тридцять
+131|feminine|cardinal|nominative|сто тридцять одна
+132|feminine|cardinal|nominative|сто тридцять дві
+200|feminine|cardinal|nominative|двісті
+300|feminine|cardinal|nominative|триста
+400|feminine|cardinal|nominative|чотириста
+500|feminine|cardinal|nominative|п'ятсот
+600|feminine|cardinal|nominative|шістсот
+700|feminine|cardinal|nominative|сімсот
+800|feminine|cardinal|nominative|вісімсот
+900|feminine|cardinal|nominative|дев'ятсот
