@@ -140,6 +140,32 @@ number|gender|form|case|text
 700|masculine|cardinal|nominative|сімсот
 800|masculine|cardinal|nominative|вісімсот
 900|masculine|cardinal|nominative|дев'ятсот
+1000|masculine|cardinal|nominative|одна тисяча
+1631|masculine|cardinal|nominative|одна тисяча шістсот тридцять один
+2000|masculine|cardinal|nominative|дві тисячи
+3000|masculine|cardinal|nominative|три тисячи
+4000|masculine|cardinal|nominative|чотири тисячи
+5000|masculine|cardinal|nominative|п'ять тисяч
+6000|masculine|cardinal|nominative|шість тисяч
+7000|masculine|cardinal|nominative|сім тисяч
+8000|masculine|cardinal|nominative|вісім тисяч
+9000|masculine|cardinal|nominative|дев'ять тисяч
+1000000|masculine|cardinal|nominative|один мільйон
+1000001|masculine|cardinal|nominative|один мільйон один
+1001000|masculine|cardinal|nominative|один мільйон одна тисяча
+1001001|masculine|cardinal|nominative|один мільйон одна тисяча один
+1000002|masculine|cardinal|nominative|один мільйон два
+1002000|masculine|cardinal|nominative|один мільйон дві тисячи
+1002002|masculine|cardinal|nominative|один мільйон дві тисячи два
+2000000|masculine|cardinal|nominative|два мільйона
+1000000000|masculine|cardinal|nominative|один мільярд
+1000000000000|masculine|cardinal|nominative|один трильйон
+1000000000000000|masculine|cardinal|nominative|один квадрильйон
+1000000000000000000|masculine|cardinal|nominative|один квінтильйон
+1000000000000000000000|masculine|cardinal|nominative|один секстильйон
+1000000000000000000000000|masculine|cardinal|nominative|один септильйон
+1000000000000000000000000000|masculine|cardinal|nominative|один октильйон
+1000000000000000000000000000000|masculine|cardinal|nominative|один нонільйон
 0|feminine|cardinal|nominative|нуль
 1|feminine|cardinal|nominative|одна
 2|feminine|cardinal|nominative|дві
@@ -281,3 +307,29 @@ number|gender|form|case|text
 700|feminine|cardinal|nominative|сімсот
 800|feminine|cardinal|nominative|вісімсот
 900|feminine|cardinal|nominative|дев'ятсот
+1000|feminine|cardinal|nominative|одна тисяча
+1631|feminine|cardinal|nominative|одна тисяча шістсот тридцять одна
+2000|feminine|cardinal|nominative|дві тисячи
+3000|feminine|cardinal|nominative|три тисячи
+4000|feminine|cardinal|nominative|чотири тисячи
+5000|feminine|cardinal|nominative|п'ять тисяч
+6000|feminine|cardinal|nominative|шість тисяч
+7000|feminine|cardinal|nominative|сім тисяч
+8000|feminine|cardinal|nominative|вісім тисяч
+9000|feminine|cardinal|nominative|дев'ять тисяч
+1000000|feminine|cardinal|nominative|один мільйон
+1000001|feminine|cardinal|nominative|один мільйон одна
+1001000|feminine|cardinal|nominative|один мільйон одна тисяча
+1001001|feminine|cardinal|nominative|один мільйон одна тисяча одна
+1000002|feminine|cardinal|nominative|один мільйон дві
+1002000|feminine|cardinal|nominative|один мільйон дві тисячи
+1002002|feminine|cardinal|nominative|один мільйон дві тисячи дві
+2000000|feminine|cardinal|nominative|два мільйона
+1000000000|feminine|cardinal|nominative|один мільярд
+1000000000000|feminine|cardinal|nominative|один трильйон
+1000000000000000|feminine|cardinal|nominative|один квадрильйон
+1000000000000000000|feminine|cardinal|nominative|один квінтильйон
+1000000000000000000000|feminine|cardinal|nominative|один секстильйон
+1000000000000000000000000|feminine|cardinal|nominative|один септильйон
+1000000000000000000000000000|feminine|cardinal|nominative|один октильйон
+1000000000000000000000000000000|feminine|cardinal|nominative|один нонільйон
